@@ -1,0 +1,2 @@
+transferMode.dlna.org: Streaming
+contentFeatures.dlna.org: DLNA.ORG_OP=01
