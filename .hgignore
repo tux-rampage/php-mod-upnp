@@ -1,0 +1,20 @@
+
+syntax: regexp
+^\.deps$
+^\.settings$
+^\.cproject$
+syntax: regexp
+^\.project$
+syntax: regexp
+^.*\.cache$
+^\.libs$
+^modules$
+^config.h$
+^ac.*\.m4$
+^config
+^build|install.*|libtool|ltmain.*|run-tests\.php|missing|mkinstalldirs$
+^Makefile.*
+\.lo$
+\.la$
+
+
